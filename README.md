@@ -2,4 +2,4 @@
 - HTML
 - CSS
 - JavaScript
-https://thehasanovv.github.io/pig-game/
+- https://thehasanovv.github.io/pig-game/
